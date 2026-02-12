@@ -95,6 +95,6 @@ Projets autour du **prétraitement de texte** : normalisation, tokenisation, sto
 
 - 📧 Email : *njamigaelle6@gmail.com*  
 - 💼 LinkedIn : *linkedin.com/in/gaelle-njami-6713911aa*  
-- 🐙 GitHub : `https://github.com/njami-gaelle`  
+- 🐙 GitHub : `https://github.com/Njami-gaelle`  
 
   
