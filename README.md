@@ -49,7 +49,6 @@ Projet de **vision par ordinateur** utilisant le dataset Kaggle *Chest X‑Ray P
   - Construction d’un pipeline d’entraînement, validation, test  
   - Suivi de métriques (accuracy, recall, AUC) et réduction du surapprentissage  
 
-> 💡 Lien du repo : *(à compléter une fois ton dépôt créé, ex. `https://github.com/yourname/pneumonia-xray-detection`)*
 
 ---
 
@@ -60,7 +59,6 @@ Conception détaillée d’un **système de détection de fraude** sur transacti
   - Epics, user stories, tâches et sous‑tâches  
   - Alignement sur CRISP‑DM (compréhension métier, data, modélisation, déploiement).
 
-> 💡 Lien du repo : *(par ex. `https://github.com/yourname/fraud-detection-backlog`)*
 
 ---
 
@@ -70,7 +68,7 @@ Exploration d’un **jeu de données criminelles** : tendances temporelles, type
 - Visualisations avec Plotly / Seaborn (évolution quotidienne, heatmaps, barplots)  
 - Mise en place d’un notebook exploratoire reproductible.
 
-> 💡 Lien du repo : *(par ex. `https://github.com/yourname/crime-data-analysis`)*
+> 💡 Lien du repo : https://github.com/Njami-gaelle/ANALYSE-DONNEES-CRIMINELLES
 
 ---
 
@@ -78,8 +76,6 @@ Exploration d’un **jeu de données criminelles** : tendances temporelles, type
 Projets autour du **prétraitement de texte** : normalisation, tokenisation, stopwords, lemmatisation, TF–IDF. [cite:139]  
 - Application potentielle à la classification de mails, d’avis ou de commentaires.  
 - Pipeline complet : collecte → nettoyage → vectorisation → modèle.
-
-> 💡 Lien du repo : *(par ex. `https://github.com/yourname/text-preprocessing-nlp`)*
 
 ---
 
@@ -92,7 +88,7 @@ Projets autour du **prétraitement de texte** : normalisation, tokenisation, sto
 ## 📫 Me contacter
 
 - 📧 Email : *njamigaelle6@gmail.com*  
-- 💼 LinkedIn : *linkedin.com/in/gaelle-njami-6713911aa*  
+- 💼 LinkedIn : linkedin.com/in/gaelle-njami-6713911aa  
 - 🐙 GitHub : `https://github.com/Njami-gaelle`  
 
   
